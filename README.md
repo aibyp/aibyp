@@ -1,30 +1,107 @@
-# 💫 Hi 👋, I'm Preethi
-**A passionate AIML Engineer ||**
+# 💙 PREETHI | AI/ML DEVELOPER 💚
 
-Email Me 👉 ✉️ **preethyyyyy555@gmail.com* For Collaboration/Project or Anything Else. 😊😊
+<div align="center">
 
-- 🔭 **I’m currently working on:** AI Attendence Generator
-- 🌱 **I’m currently learning:** AIML-PRIME by Apna College
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kondaveeti Preethi) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kondaveeti Preethi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preethyyyyy555@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:082547,100:061B35&height=220&section=header&text=PREETHI&fontSize=75&fontColor=AFF630&fontAlignY=35&desc=AI%2FML%20DEVELOPER%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aibyp&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aibyp&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aibyp&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=AFF630&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Preethi+%F0%9F%91%8B;AI%2FML+Developer+in+Progress+%F0%9F%A4%96;Exploring+Machine+Learning+%26+GenAI+%F0%9F%92%BB;Building+Ideas+Into+Intelligent+Solutions+%E2%9C%A8" alt="Typing SVG"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aibyp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=aibyp&label=PROFILE%20VIEWS&color=AFF630&style=flat)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aibyp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aibyp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌱 About Me
+
+Hey! I'm **Preethi**, a Computer Science student specializing in Artificial Intelligence and Machine Learning.
+
+I enjoy experimenting with technology, solving problems, and building projects that combine creativity with intelligent systems.
+
+- 🎓 Pursuing B.Tech in CSE – Artificial Intelligence & Machine Learning
+- 🤖 Interested in Machine Learning, Deep Learning and Generative AI
+- 💻 Building AI-powered applications and exploring automation
+- 🌱 Constantly learning, experimenting and improving
+- 🎯 Goal: Turn innovative ideas into impactful technology
+
+---
+
+## ⚡ What I'm Working On
+
+| Project | Description |
+|---|---|
+| 🤖 ClickClass | AI-powered facial recognition attendance system |
+| 🧠 AI/ML Projects | Exploring intelligent systems and practical ML applications |
+| 🚀 Personal Portfolio | Showcasing my technical journey and projects |
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css&theme=dark" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,jupyter&theme=dark" />
+</p>
+
+### Exploring
+
+`Generative AI` · `LLMs` · `LangChain` · `RAG` · `Agentic AI` · `Automation`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aibyp&show_icons=true&hide_border=true&bg_color=082547&title_color=AFF630&icon_color=AFF630&text_color=FFFFFF&ring_color=AFF630&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibyp&layout=compact&hide_border=true&bg_color=082547&title_color=AFF630&text_color=FFFFFF" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/search/results/people/?keywords=Preethi%20Kondaveeti">
+<img src="https://img.shields.io/badge/LinkedIn-082547?style=for-the-badge&logo=linkedin&logoColor=AFF630" />
+</a>
+
+<a href="mailto:preethyyyyy555@gmail.com">
+<img src="https://img.shields.io/badge/Email-082547?style=for-the-badge&logo=gmail&logoColor=AFF630" />
+</a>
+
+<a href="https://github.com/aibyp">
+<img src="https://img.shields.io/badge/GitHub-082547?style=for-the-badge&logo=github&logoColor=AFF630" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 Building. Learning. Innovating. Repeating.
+
+*Code is not just about solving problems. It's about creating possibilities.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061B35,100:082547&height=120&section=footer" width="100%"/>
+
+</div>
