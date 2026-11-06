@@ -1,107 +1,126 @@
-# 💙 PREETHI | AI/ML DEVELOPER 💚
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:082547,100:061B35&height=220&section=header&text=PREETHI&fontSize=75&fontColor=AFF630&fontAlignY=35&desc=AI%2FML%20DEVELOPER%20%7C%20BUILDING%20INTELLIGENT%20SYSTEMS&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="./assets/hero.svg" alt="Preethi Kondaveeti — AI/ML Developer. Portrait inside a glowing animated AI core." width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=AFF630&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Preethi+%F0%9F%91%8B;AI%2FML+Developer+in+Progress+%F0%9F%A4%96;Exploring+Machine+Learning+%26+GenAI+%F0%9F%92%BB;Building+Ideas+Into+Intelligent+Solutions+%E2%9C%A8" alt="Typing SVG"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+intelligence.;Automating+possibilities.;Exploring+what+comes+next." alt="Typing animation: Building intelligence. Automating possibilities. Exploring what comes next."/></a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aibyp&label=PROFILE%20VIEWS&color=AFF630&style=flat)
+<a href="https://github.com/aibyp"><img src="https://img.shields.io/badge/GitHub-aibyp-071426?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=030712" alt="GitHub: aibyp"/></a>
+<a href="https://www.linkedin.com/search/results/people/?keywords=Preethi%20Kondaveeti"><img src="https://img.shields.io/badge/LinkedIn-Preethi_Kondaveeti-071426?style=for-the-badge&logo=linkedin&logoColor=087BFF&labelColor=030712" alt="LinkedIn: Preethi Kondaveeti"/></a>
+<a href="mailto:preethyyyyy555@gmail.com"><img src="https://img.shields.io/badge/Email-preethyyyyy555@gmail.com-071426?style=for-the-badge&logo=gmail&logoColor=9B5CFF&labelColor=030712" alt="Email Preethi"/></a>
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
-## 🌱 About Me
+## 🌌 The AI Universe
 
-Hey! I'm **Preethi**, a Computer Science student specializing in Artificial Intelligence and Machine Learning.
+<div align="center">
+<img src="./assets/ai-universe.svg" alt="Network of connected domains: AI, ML, Deep Learning, Generative AI, Agentic AI, AI Automation, LLM Engineering and Full-Stack Development" width="100%"/>
+</div>
 
-I enjoy experimenting with technology, solving problems, and building projects that combine creativity with intelligent systems.
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
-- 🎓 Pursuing B.Tech in CSE – Artificial Intelligence & Machine Learning
-- 🤖 Interested in Machine Learning, Deep Learning and Generative AI
-- 💻 Building AI-powered applications and exploring automation
-- 🌱 Constantly learning, experimenting and improving
-- 🎯 Goal: Turn innovative ideas into impactful technology
+## ⭐ Flagship Project
 
----
+<div align="center">
+<img src="./assets/clickclass.svg" alt="ClickClass — AI-powered facial recognition attendance system" width="100%"/>
+</div>
 
-## ⚡ What I'm Working On
+> **ClickClass** — a teacher captures a classroom photograph, and the system uses facial recognition to identify students and mark attendance.
+> Built with Python, machine learning and computer vision.
 
-| Project | Description |
-|---|---|
-| 🤖 ClickClass | AI-powered facial recognition attendance system |
-| 🧠 AI/ML Projects | Exploring intelligent systems and practical ML applications |
-| 🚀 Personal Portfolio | Showcasing my technical journey and projects |
+### More Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 💻 Tech Stack
+**🏋️ AI Gym Trainer**<br/>
+AI-based fitness assistance.<br/>
+<sub>`AI` · `Computer Vision`</sub>
 
-### Programming Languages
+</td>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css&theme=dark" />
-</p>
+**🎨 Neural Style Transfer**<br/>
+Deep learning-based artistic image transformation.<br/>
+<sub>`Deep Learning` · `Python`</sub>
 
-### AI / Machine Learning
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-</p>
+**💳 Loan Approval Prediction**<br/>
+Machine learning with Logistic Regression.<br/>
+<sub>`Machine Learning` · `Scikit-learn`</sub>
 
-### Tools & Technologies
+</td>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,jupyter&theme=dark" />
-</p>
+**☁️ Cloud Resume Portfolio**<br/>
+Cloud and DevOps-oriented portfolio project.<br/>
+<sub>`Cloud` · `DevOps`</sub>
 
-### Exploring
+</td>
+</tr>
+</table>
 
-`Generative AI` · `LLMs` · `LangChain` · `RAG` · `Agentic AI` · `Automation`
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
----
+## 🔬 The AI Research Lab
 
-## 📊 GitHub Analytics
+<div align="center">
+<img src="./assets/ai-lab.svg" alt="AI research console: areas I am building and exploring, including agentic AI, MCP, advanced RAG and intelligent automation" width="100%"/>
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+## 🧰 Technology Universe
+
+<table>
+<tr><td width="200"><b>Programming</b></td><td>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css&theme=dark" alt="Python, C, C++, Java, HTML, CSS"/></td></tr>
+<tr><td><b>AI &amp; Machine Learning</b></td><td>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch&theme=dark" alt="NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch"/></td></tr>
+<tr><td><b>Generative &amp; Agentic AI</b></td><td>
+<img src="https://skillicons.dev/icons?i=langchain&theme=dark" alt="LangChain"/> LangGraph · LLMs · RAG · Hugging Face · Agentic AI</td></tr>
+<tr><td><b>Automation</b></td><td>
+n8n · Automation Anywhere · RPA · AI-powered workflows</td></tr>
+<tr><td><b>Development &amp; Cloud</b></td><td>
+<img src="https://skillicons.dev/icons?i=react,streamlit,docker,aws&theme=dark" alt="React, Streamlit, Docker, AWS"/> REST APIs</td></tr>
+<tr><td><b>Developer Tools</b></td><td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,kaggle&theme=dark" alt="Git, GitHub, VS Code, Jupyter, Kaggle"/></td></tr>
+</table>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+## 👩‍💻 About Me
+
+I'm a **B.Tech CSE student specializing in AI & Machine Learning** who loves turning ideas into intelligent applications. I experiment with emerging AI technologies, design agentic workflows, and automate real-world processes, always curious about what comes next.
+
+## 🧭 Developer Journey
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aibyp&show_icons=true&hide_border=true&bg_color=082547&title_color=AFF630&icon_color=AFF630&text_color=FFFFFF&ring_color=AFF630&include_all_commits=true" />
+**Learn** → **Experiment** → **Build** → **Improve** → *repeat*
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibyp&layout=compact&hide_border=true&bg_color=082547&title_color=AFF630&text_color=FFFFFF" />
+*Building intelligence. Automating possibilities. Exploring what comes next.*
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/search/results/people/?keywords=Preethi%20Kondaveeti">
-<img src="https://img.shields.io/badge/LinkedIn-082547?style=for-the-badge&logo=linkedin&logoColor=AFF630" />
-</a>
-
-<a href="mailto:preethyyyyy555@gmail.com">
-<img src="https://img.shields.io/badge/Email-082547?style=for-the-badge&logo=gmail&logoColor=AFF630" />
-</a>
-
-<a href="https://github.com/aibyp">
-<img src="https://img.shields.io/badge/GitHub-082547?style=for-the-badge&logo=github&logoColor=AFF630" />
-</a>
-
-</div>
-
----
+## 📡 Connect With Me
 
 <div align="center">
 
-### 💚 Building. Learning. Innovating. Repeating.
+<a href="https://github.com/aibyp"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/search/results/people/?keywords=Preethi%20Kondaveeti"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:preethyyyyy555@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/></a>
 
-*Code is not just about solving problems. It's about creating possibilities.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061B35,100:082547&height=120&section=footer" width="100%"/>
+<sub>github.com/aibyp · preethyyyyy555@gmail.com</sub>
 
 </div>
